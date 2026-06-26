@@ -80,9 +80,9 @@ https://renad-alanazi.vercel.app
 
 ## Resume
 
-The latest version of my resume can be viewed here.
+The latest version of my resume is available on my portfolio website.
 
-https://github.com/Renad-Alanazi/engineering-portfolio/blob/main/Renad_Alanazi_Resume.pdf
+https://renad-alanazi.vercel.app
 
 ## Contact
 
