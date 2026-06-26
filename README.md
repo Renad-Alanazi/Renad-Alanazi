@@ -82,7 +82,7 @@ https://renad-alanazi.vercel.app
 
 The latest version of my resume is available on my portfolio website.
 
-https://renad-alanazi.vercel.app
+https://renad-alanazi.vercel.app/Resume.dc.html
 
 ## Contact
 
